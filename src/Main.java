@@ -2,7 +2,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		OitoRainhas nRainhas = new OitoRainhas();
+		NRainhas nRainhas = new NRainhas();
 		String resultado;
 		
 		resultado = nRainhas.iniciar();
